@@ -73,7 +73,7 @@ height: 375px;
  figcaption{
 text-align: center;
 min-width:10ch;
-max-width: 20ch;
+max-width: 18ch;
 font-family: 'Source Sans Pro', sans-serif;
 font-size: 18px;
 background-color: rgb(234,179,84);
@@ -92,8 +92,4 @@ text-align:center;
 color:whitesmoke;
 max-width: 75ch;
  }
- 
- i {
 
-  size:18px;
- }

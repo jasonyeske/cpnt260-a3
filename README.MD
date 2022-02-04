@@ -1,4 +1,7 @@
-
+# cpnt360-a3
+## Jason Yeske
+[Github Repo](https://github.com/jasonyeske/cpnt260-a3)
+[Github Pages](https://jasonyeske.github.io/cpnt260-a3/)
 
 - A site that helped me figure out my grids was Developer Mozilla
 [grid-template](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-columns)
@@ -18,3 +21,5 @@
 - Balenciaga Hoodie [Leon Skibitzki](https://unsplash.com/photos/)zUxd0TJo0Do
 
 - The Bathing Ape Hoodie [Karel Vh](https://unsplash.com/photos/YGRr0XMFk1I)
+
+- Supreme Step Ladder [Pat Kwon](https://unsplash.com/photos/OLjdTYtK1_4)
