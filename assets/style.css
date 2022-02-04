@@ -25,18 +25,18 @@ nav {
  li > a{
    text-decoration: none;
    color: black;
-    font-family: 'Roboto', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
  }
  
  li > a:visited {
-   text-decoration:black;
+   text-decoration:none;
    color: black;
  }
  
  
  h1 {
 grid-column: 1 / -1;
-
+font-family: 'Source Sans Pro', sans-serif;
  }
  
  
@@ -72,6 +72,7 @@ height: 375px;
  }
  figcaption{
 text-align: center;
+min-width:10ch;
 max-width: 20ch;
 font-family: 'Source Sans Pro', sans-serif;
 font-size: 18px;
@@ -84,10 +85,15 @@ background-color: rgb(234,179,84);
 background-color: rgb(95,120,123);
 
  }
-
+/*Copyright info */
 footer {
-
+margin: 0 auto;
 text-align:center;
 color:whitesmoke;
+max-width: 75ch;
+ }
+ 
+ i {
 
+  size:18px;
  }
